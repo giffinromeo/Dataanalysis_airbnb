@@ -1,5 +1,4 @@
 # Data analysis airbnb
-airbnb seattle data analysis
 Here I will using this as a stage to explain a usecase scenario in which we will follow CRISP-DM, whiich includes the following steps:
 1. Understanding the Business
 2. Understanding the Data
