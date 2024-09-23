@@ -42,9 +42,9 @@ There is a jupyter notebook containing the whole code used for the analysis. In 
 
 Results
 
-The significant findings and the interpretation are being displayed on the post published here in this link.
+The significant findings and the interpretation are being displayed on the post published here in this link ().
 
 Licensing, Authors, Acknowledgements
 
-The data used is from the following link (https://www.kaggle.com/datasets/airbnb/seattle/data). You can find the Licensing for the data and other descriptive information under the same link. Please fell free to refer the code used.
+The data used is from the following link (https://www.kaggle.com/datasets/airbnb/seattle/data). You can find the Licensing for the data and other descriptive information under the same link. Please fell free to refer the code used (https://github.com/giffinromeo/Dataanalysis_airbnb/blob/main/Code.py).
 
