@@ -41,7 +41,7 @@ There is a jupyter notebook containing the whole code used for the analysis. In 
 
 Results
 
-The significant findings and the interpretation are being displayed on the post published here in this link ().
+The significant findings and the interpretation are being displayed on the post published here in this link (https://medium.com/@kichurom/airbnb-for-owners-and-tourists-75eab31d6f4f).
 
 Licensing, Authors, Acknowledgements
 
